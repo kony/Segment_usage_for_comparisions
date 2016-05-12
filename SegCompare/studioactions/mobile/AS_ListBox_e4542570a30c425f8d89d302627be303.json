@@ -1,0 +1,25 @@
+{
+    "AS_ListBox_e4542570a30c425f8d89d302627be303": {
+        "id": "AS_ListBox_e4542570a30c425f8d89d302627be303",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCompare",
+            "type": "forms",
+            "platform": "",
+            "KUID": "9a3d9e2e0d7440e7ba6fa2f078d40aae"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d56d17e8560542dba0adfe2a0b639559",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onListBox2Selection",
+            "display": "onListBox2Selection",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

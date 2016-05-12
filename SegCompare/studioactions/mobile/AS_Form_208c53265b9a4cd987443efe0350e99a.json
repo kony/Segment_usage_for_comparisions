@@ -1,0 +1,25 @@
+{
+    "AS_Form_208c53265b9a4cd987443efe0350e99a": {
+        "id": "AS_Form_208c53265b9a4cd987443efe0350e99a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCompare",
+            "type": "forms",
+            "platform": "",
+            "KUID": "9a3d9e2e0d7440e7ba6fa2f078d40aae"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___bcd52fa5f2534783b72408c2a78ae04b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setSegWidgetCallBack",
+            "display": "setSegWidgetCallBack",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

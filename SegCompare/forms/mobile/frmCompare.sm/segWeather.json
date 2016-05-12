@@ -1,0 +1,323 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgHumidity": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "humidity.png"
+            },
+            "imgHumidity2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "humidity.png"
+            },
+            "imgIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgIcon2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgSpeed": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "wind_speed.png"
+            },
+            "imgSpeed2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "wind_speed.png"
+            },
+            "imgTemp": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "temperature.png"
+            },
+            "imgTemp2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "temperature.png"
+            },
+            "lblHumidity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblHumidity2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "humidity"
+            },
+            "lblTemp": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTemp2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "temp"
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTime2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "time"
+            },
+            "lblWindSpeed": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblWindSpeed2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "speed"
+            }
+        },
+        {
+            "imgHumidity": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "humidity.png"
+            },
+            "imgHumidity2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "humidity.png"
+            },
+            "imgIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgIcon2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgSpeed": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "wind_speed.png"
+            },
+            "imgSpeed2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "wind_speed.png"
+            },
+            "imgTemp": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "temperature.png"
+            },
+            "imgTemp2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "temperature.png"
+            },
+            "lblHumidity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblHumidity2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "humidity"
+            },
+            "lblTemp": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTemp2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "temp"
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTime2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "time"
+            },
+            "lblWindSpeed": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblWindSpeed2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "speed"
+            }
+        },
+        {
+            "imgHumidity": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "humidity.png"
+            },
+            "imgHumidity2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "humidity.png"
+            },
+            "imgIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgIcon2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgSpeed": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "wind_speed.png"
+            },
+            "imgSpeed2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "wind_speed.png"
+            },
+            "imgTemp": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "temperature.png"
+            },
+            "imgTemp2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "temperature.png"
+            },
+            "lblHumidity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblHumidity2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "humidity"
+            },
+            "lblTemp": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTemp2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "temp"
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTime2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "time"
+            },
+            "lblWindSpeed": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblWindSpeed2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "speed"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segWeather",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "bd3cf858cf554c7d8bf899201c418b51",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageOffDot.png",
+    "pageondotimage": "pageOnDot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmCompare",
+    "pf": "frmCompare",
+    "retainselection": false,
+    "rowTemplateId": "3e33b4aa4f0f4ece8f068e9989368bb4",
+    "rowcounter": 2,
+    "rowfocusskin": "s8a2ec53288c4d049211f79aa7dae798",
+    "rowskin": "sf503dcbcb77451ebc1e68abde0877b8",
+    "rowtemplate": "flxRow",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s9d27a4e0a444ba8a7cb5b00a57d8590",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flexHumidity": "flexHumidity",
+        "flexHumidity2": "flexHumidity2",
+        "flexTemp": "flexTemp",
+        "flexTemp2": "flexTemp2",
+        "flxData1": "flxData1",
+        "flxData2": "flxData2",
+        "flxImg": "flxImg",
+        "flxImg2": "flxImg2",
+        "flxRow": "flxRow",
+        "flxSpeed": "flxSpeed",
+        "flxSpeed2": "flxSpeed2",
+        "flxWeatherInfo": "flxWeatherInfo",
+        "flxWeatherInfo2": "flxWeatherInfo2",
+        "imgHumidity": "imgHumidity",
+        "imgHumidity2": "imgHumidity2",
+        "imgIcon": "imgIcon",
+        "imgIcon2": "imgIcon2",
+        "imgSpeed": "imgSpeed",
+        "imgSpeed2": "imgSpeed2",
+        "imgTemp": "imgTemp",
+        "imgTemp2": "imgTemp2",
+        "lblHumidity": "lblHumidity",
+        "lblHumidity2": "lblHumidity2",
+        "lblLine": "lblLine",
+        "lblTemp": "lblTemp",
+        "lblTemp2": "lblTemp2",
+        "lblTime": "lblTime",
+        "lblTime2": "lblTime2",
+        "lblWindSpeed": "lblWindSpeed",
+        "lblWindSpeed2": "lblWindSpeed2"
+    },
+    "zindex": 1
+}
