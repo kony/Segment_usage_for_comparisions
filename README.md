@@ -16,4 +16,4 @@ Application to showcase the featues of Kony Segment for comparision:
  * iPhone
  * Android
  
-Certified4KonyCommunity7.1.1 
+CertifiedAtKonyCommunity
